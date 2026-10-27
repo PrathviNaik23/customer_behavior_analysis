@@ -1,6 +1,8 @@
 Customer Shopping Behavior Analysis
 
-"Customer Shopping Behavior Dashboard" (customer_behavior_dashboard.png)
+# Customer Shopping Behavior Analysis
+
+![Customer Shopping Behavior Dashboard](customer_behavior_dashboard.png)
 
 An end-to-end data analytics project using SQL, Python, and Power BI to analyze customer shopping patterns and generate actionable business insights.
 
